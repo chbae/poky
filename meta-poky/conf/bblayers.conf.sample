@@ -10,4 +10,5 @@ BBLAYERS ?= " \
   ##OEROOT##/meta-poky \
   ##OEROOT##/meta-yocto-bsp \
   ##OEROOT##/meta-raspberrypi \
+  ##OEROOT##/meta-qt5 \
   "
